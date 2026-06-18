@@ -1,13 +1,9 @@
 {
-    "display_name": "🧹 JanitorAI Full Importer",
     "name": "janitor-full-importer",
-    "version": "1.0.2",
-    "description": "JanitorAI에서 캐릭터 카드(PNG)와 로어북(JSON)을 임포트합니다. 모든 alternate greetings 포함.",
-    "requires": [],
-    "optional": [],
-    "js": ["index.js"],
-    "css": ["style.css"],
-    "author": "custom",
-    "homePage": "",
-    "tags": ["characters", "import"]
+    "display_name": "🧹요술 빗자루",
+    "description": "JanitorAI에서 alternate_greetings와 로어북까지 누락 없이 완벽하게 캐릭터를 가져옵니다. (백엔드 없는 V2 버전)",
+    "version": "2.0.0",
+    "author": "Jinhee",
+    "main": "index.js",
+    "dependencies": {}
 }
