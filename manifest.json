@@ -1,10 +1,8 @@
 {
     "name": "janitor-full-importer",
-    "display_name": "🧹마법 빗자루 magic broom",
-    "description": "JanitorAI에서 alternate_greetings와 로어북까지 누락 없이 완벽하게 캐릭터를 가져옵니다.",
-    "version": "1.0.0",
+    "display_name": "🧹 Janitor Full Importer",
+    "version": "1.0.1",
     "author": "Jinhee",
     "main": "index.js",
-    "server": "server.js",
-    "dependencies": {}
+    "server": "server.js"
 }
